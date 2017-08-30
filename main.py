@@ -11,7 +11,7 @@ __author__ = 'Sergey Osipov <Serega.Osipov@gmail.com>'
 # their original paper :
 # @Article{Lorbacher2006MLDCurvature,
 #   Title                    = {Ocean mixed layer depth: A subsurface proxy of ocean-atmosphere variability},
-#   Author                   = {Lorbacher, K. and Dommenget, D. and Niiler, P. P. and Köhl, A.},
+#   Author                   = {Lorbacher, K. and Dommenget, D. and Niiler, P. P. and Kohl, A.},
 #   Journal                  = {Journal of Geophysical Research: Oceans},
 #   Year                     = {2006},
 #   Url                      = {http://dx.doi.org/10.1029/2003JC002157}
