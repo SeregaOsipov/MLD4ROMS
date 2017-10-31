@@ -5,7 +5,7 @@ If you are going to use this code and publish the results in a scientific journa
 Osipov et al., 2017, Regional effects of the Mount Pinatubo eruption on the Middle East and the Red Sea, JGR Oceans.
 
 
-MAKE SURE that you have all the libraries installed (check the imports section). These are numpy, matplotlib. For ROMS model output, script relies on seawater library (version > 3, https://pypi.python.org/pypi/seawater) to compute potential density from potential temperature and salinity.
+Make sure that you have all the libraries installed (check the imports section). These are numpy, matplotlib. For ROMS model output, script relies on seawater library (version > 3, https://pypi.python.org/pypi/seawater) to compute potential density from potential temperature and salinity.
 
 The main.py and sample_data.nc files provide a minimal example based on the ROMS output to illustrate the algorithm. You will need to modify it to derive the mixed layer depth (MLD) based on your model output.
 
