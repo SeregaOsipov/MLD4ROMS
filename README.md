@@ -1,8 +1,7 @@
 # MLD4ROMS
 Potential density and curvature-based algorithm to compute the mixed layer depth diagnostic from the ocean models output such as ROMS, written in Python.
 
-If you are going to use this code and publish the results in a scientific journal, we request to cite the paper, where this code was introduced:
-Osipov et al., 2017, Regional effects of the Mount Pinatubo eruption on the Middle East and the Red Sea, JGR Oceans.
+If you are going to use this code and publish the results in a scientific journal, we request to cite the paper, where this code was introduced: Osipov et al., 2017, Regional effects of the Mount Pinatubo eruption on the Middle East and the Red Sea, JGR Oceans (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JC013182).
 
 
 Make sure that you have all the libraries installed (check the imports section). These are numpy, matplotlib. For ROMS model output, script relies on seawater library (version > 3, https://pypi.python.org/pypi/seawater) to compute potential density from potential temperature and salinity.
